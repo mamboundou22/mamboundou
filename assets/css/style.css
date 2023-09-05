@@ -1,0 +1,24 @@
+body {
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-bottom: -280px;
+    background-color: rgb(120,20,20);
+}
+
+img[src="./CVMA_shared/photo.png"] {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 310px;
+    clip-path: circle(40%);
+    box-shadow: 100px 100px 50px rgba(86, 4, 251, 0.5);
+}
+
+h1,
+h2 {
+    color: white;
+}
+
+p {
+    line-height: 1px;
+}
